@@ -1,0 +1,7 @@
+{
+  "name": "FavoriteStarTrekMovies",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
